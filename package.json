@@ -1,0 +1,22 @@
+{
+  "name": "mynodejspackage",
+  "version": "1.0.0",
+  "description": "My first node package",
+  "main": "myfirst.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rboutault/mynodejsrepo.git"
+  },
+  "author": "Robert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rboutault/mynodejsrepo/issues"
+  },
+  "homepage": "https://github.com/rboutault/mynodejsrepo#readme",
+  "dependencies": {
+    "package.json": "^2.0.1"
+  }
+}
